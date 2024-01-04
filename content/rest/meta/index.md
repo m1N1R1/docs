@@ -1,4 +1,4 @@
----
+-Remove All personal data and privacy policy Reset also block third parties app--
 title: Meta
 intro: >-
   Use the REST API to get meta information about {% data
